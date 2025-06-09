@@ -103,6 +103,10 @@ Este projeto foca em:
 
 Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
 
+## 🎥 Demonstração
+
+![Demonstração do app](./src/assets/demostracao.gif)
+
 ---
 
 Feito com 💻 por [Chrystian Strummiello](https://github.com/ChrystianStrummiello)
