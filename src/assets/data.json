@@ -1,0 +1,402 @@
+[
+	{
+		"id": "1",
+		"name": "Camiseta Skate Sunset",
+		"price": 29.99,
+		"quantity": 10,
+		"installments": "3x de R$ 9.99",
+		"image": "https://source.unsplash.com/random/400x300?skateboarding+clothing"
+	},
+	{
+		"id": "2",
+		"name": "Calça Jeans Skate Blue",
+		"price": 39.99,
+		"quantity": 8,
+		"installments": "3x de R$ 13.33",
+		"image": "https://source.unsplash.com/random/400x301?skateboarding+jeans"
+	},
+	{
+		"id": "3",
+		"name": "Moletom Skateboarder",
+		"price": 49.99,
+		"quantity": 12,
+		"installments": "3x de R$ 16.66",
+		"image": "https://source.unsplash.com/random/400x302?skateboarding+sweatshirt"
+	},
+	{
+		"id": "4",
+		"name": "Boné Skate Classic",
+		"price": 19.99,
+		"quantity": 20,
+		"installments": "3x de R$ 6.66",
+		"image": "https://source.unsplash.com/random/400x303?skateboarding+hat"
+	},
+	{
+		"id": "5",
+		"name": "Meia Skate Stripes",
+		"price": 9.99,
+		"quantity": 15,
+		"installments": "3x de R$ 3.33",
+		"image": "https://source.unsplash.com/random/400x304?skateboarding+socks"
+	},
+	{
+		"id": "6",
+		"name": "Jaqueta Skate Urban",
+		"price": 69.99,
+		"quantity": 10,
+		"installments": "3x de R$ 23.33",
+		"image": "https://source.unsplash.com/random/400x305?skateboarding+jacket"
+	},
+	{
+		"id": "7",
+		"name": "Camisa Polo Skate Vintage",
+		"price": 34.99,
+		"quantity": 10,
+		"installments": "3x de R$ 11.66",
+		"image": "https://source.unsplash.com/random/400x306?skateboarding+polo"
+	},
+	{
+		"id": "8",
+		"name": "Vestido Skate Floral",
+		"price": 44.99,
+		"quantity": 10,
+		"installments": "3x de R$ 14.99",
+		"image": "https://source.unsplash.com/random/400x307?skateboarding+dress"
+	},
+	{
+		"id": "9",
+		"name": "Tênis Skate High Top",
+		"price": 79.99,
+		"quantity": 5,
+		"installments": "3x de R$ 26.66",
+		"image": "https://source.unsplash.com/random/400x308?skateboarding+shoes"
+	},
+	{
+		"id": "10",
+		"name": "Moletom Skate Skateboarding",
+		"price": 54.99,
+		"quantity": 15,
+		"installments": "3x de R$ 18.33",
+		"image": "https://source.unsplash.com/random/400x309?skateboarding+sweater"
+	},
+	{
+		"id": "11",
+		"name": "Calça Cargo Skate",
+		"price": 59.99,
+		"quantity": 10,
+		"installments": "3x de R$ 19.99",
+		"image": "https://source.unsplash.com/random/400x310?skateboarding+cargo+pants"
+	},
+	{
+		"id": "12",
+		"name": "Camiseta Skate Vintage",
+		"price": 29.99,
+		"quantity": 8,
+		"installments": "3x de R$ 9.99",
+		"image": "https://source.unsplash.com/random/400x311?skateboarding+retro+tshirt"
+	},
+	{
+		"id": "13",
+		"name": "Blusa Skate Estampada",
+		"price": 39.99,
+		"quantity": 12,
+		"installments": "3x de R$ 13.33",
+		"image": "https://source.unsplash.com/random/400x312?skateboarding+printed+sweatshirt"
+	},
+	{
+		"id": "14",
+		"name": "Calça Jeans Skate Street",
+		"price": 49.99,
+		"quantity": 20,
+		"installments": "3x de R$ 16.66",
+		"image": "https://source.unsplash.com/random/400x313?skateboarding+streetwear+jeans"
+	},
+	{
+		"id": "15",
+		"name": "Jaqueta Bomber Skate",
+		"price": 79.99,
+		"quantity": 15,
+		"installments": "3x de R$ 26.66",
+		"image": "https://source.unsplash.com/random/400x314?skateboarding+bomber+jacket"
+	},
+	{
+		"id": "16",
+		"name": "Regata Skate Summer",
+		"price": 24.99,
+		"quantity": 10,
+		"installments": "3x de R$ 8.33",
+		"image": "https://source.unsplash.com/random/400x315?skateboarding+summer+tank+top"
+	},
+	{
+		"id": "17",
+		"name": "Shorts Skate Beach",
+		"price": 34.99,
+		"quantity": 10,
+		"installments": "3x de R$ 11.66",
+		"image": "https://source.unsplash.com/random/400x316?skateboarding+beach+shorts"
+	},
+	{
+		"id": "18",
+		"name": "Boné Skate Snapback",
+		"price": 19.99,
+		"quantity": 10,
+		"installments": "3x de R$ 6.66",
+		"image": "https://source.unsplash.com/random/400x317?skateboarding+snapback+hat"
+	},
+	{
+		"id": "19",
+		"name": "Casaco Skate Hoodie",
+		"price": 64.99,
+		"quantity": 5,
+		"installments": "3x de R$ 21.66",
+		"image": "https://source.unsplash.com/random/400x318?skateboarding+hoodie"
+	},
+	{
+		"id": "20",
+		"name": "Tênis Skate Mid Top",
+		"price": 89.99,
+		"quantity": 15,
+		"installments": "3x de R$ 29.99",
+		"image": "https://source.unsplash.com/random/400x319?skateboarding+mid+top+shoes"
+	},
+	{
+		"id": "21",
+		"name": "Camiseta Skate Sunset II",
+		"price": 29.99,
+		"quantity": 10,
+		"installments": "3x de R$ 9.99",
+		"image": "https://source.unsplash.com/random/400x320?skateboarding+clothing"
+	},
+	{
+		"id": "22",
+		"name": "Calça Jeans Skate Blue II",
+		"price": 39.99,
+		"quantity": 8,
+		"installments": "3x de R$ 13.33",
+		"image": "https://source.unsplash.com/random/400x321?skateboarding+jeans"
+	},
+	{
+		"id": "23",
+		"name": "Moletom Skateboarder II",
+		"price": 49.99,
+		"quantity": 12,
+		"installments": "3x de R$ 16.66",
+		"image": "https://source.unsplash.com/random/400x322?skateboarding+sweatshirt"
+	},
+	{
+		"id": "24",
+		"name": "Boné Skate Classic II",
+		"price": 19.99,
+		"quantity": 20,
+		"installments": "3x de R$ 6.66",
+		"image": "https://source.unsplash.com/random/400x323?skateboarding+hat"
+	},
+	{
+		"id": "25",
+		"name": "Meia Skate Stripes II",
+		"price": 9.99,
+		"quantity": 15,
+		"installments": "3x de R$ 3.33",
+		"image": "https://source.unsplash.com/random/400x324?skateboarding+socks"
+	},
+	{
+		"id": "26",
+		"name": "Jaqueta Skate Urban II",
+		"price": 69.99,
+		"quantity": 10,
+		"installments": "3x de R$ 23.33",
+		"image": "https://source.unsplash.com/random/400x325?skateboarding+jacket"
+	},
+	{
+		"id": "27",
+		"name": "Camisa Polo Skate Vintage II",
+		"price": 34.99,
+		"quantity": 10,
+		"installments": "3x de R$ 11.66",
+		"image": "https://source.unsplash.com/random/400x326?skateboarding+polo"
+	},
+	{
+		"id": "28",
+		"name": "Vestido Skate Floral II",
+		"price": 44.99,
+		"quantity": 10,
+		"installments": "3x de R$ 14.99",
+		"image": "https://source.unsplash.com/random/400x327?skateboarding+dress"
+	},
+	{
+		"id": "29",
+		"name": "Tênis Skate High Top II",
+		"price": 79.99,
+		"quantity": 5,
+		"installments": "3x de R$ 26.66",
+		"image": "https://source.unsplash.com/random/400x328?skateboarding+shoes"
+	},
+	{
+		"id": "30",
+		"name": "Moletom Skate Skateboarding II",
+		"price": 54.99,
+		"quantity": 15,
+		"installments": "3x de R$ 18.33",
+		"image": "https://source.unsplash.com/random/400x329?skateboarding+sweater"
+	},
+	{
+		"id": "31",
+		"name": "Calça Cargo Skate II",
+		"price": 59.99,
+		"quantity": 10,
+		"installments": "3x de R$ 19.99",
+		"image": "https://source.unsplash.com/random/400x330?skateboarding+cargo+pants"
+	},
+	{
+		"id": "32",
+		"name": "Camiseta Skate Vintage II",
+		"price": 29.99,
+		"quantity": 8,
+		"installments": "3x de R$ 9.99",
+		"image": "https://source.unsplash.com/random/400x331?skateboarding+retro+tshirt"
+	},
+	{
+		"id": "33",
+		"name": "Blusa Skate Estampada II",
+		"price": 39.99,
+		"quantity": 12,
+		"installments": "3x de R$ 13.33",
+		"image": "https://source.unsplash.com/random/400x332?skateboarding+printed+sweatshirt"
+	},
+	{
+		"id": "34",
+		"name": "Calça Jeans Skate Street II",
+		"price": 49.99,
+		"quantity": 20,
+		"installments": "3x de R$ 16.66",
+		"image": "https://source.unsplash.com/random/400x333?skateboarding+streetwear+jeans"
+	},
+	{
+		"id": "35",
+		"name": "Jaqueta Bomber Skate II",
+		"price": 79.99,
+		"quantity": 15,
+		"installments": "3x de R$ 26.66",
+		"image": "https://source.unsplash.com/random/400x334?skateboarding+bomber+jacket"
+	},
+	{
+		"id": "36",
+		"name": "Regata Skate Summer II",
+		"price": 24.99,
+		"quantity": 10,
+		"installments": "3x de R$ 8.33",
+		"image": "https://source.unsplash.com/random/400x335?skateboarding+summer+tank+top"
+	},
+	{
+		"id": "37",
+		"name": "Shorts Skate Beach II",
+		"price": 34.99,
+		"quantity": 10,
+		"installments": "3x de R$ 11.66",
+		"image": "https://source.unsplash.com/random/400x336?skateboarding+beach+shorts"
+	},
+	{
+		"id": "38",
+		"name": "Boné Skate Snapback II",
+		"price": 19.99,
+		"quantity": 10,
+		"installments": "3x de R$ 6.66",
+		"image": "https://source.unsplash.com/random/400x337?skateboarding+snapback+hat"
+	},
+	{
+		"id": "39",
+		"name": "Casaco Skate Hoodie II",
+		"price": 64.99,
+		"quantity": 5,
+		"installments": "3x de R$ 21.66",
+		"image": "https://source.unsplash.com/random/400x338?skateboarding+hoodie"
+	},
+	{
+		"id": "40",
+		"name": "Tênis Skate Mid Top II",
+		"price": 89.99,
+		"quantity": 15,
+		"installments": "3x de R$ 29.99",
+		"image": "https://source.unsplash.com/random/400x339?skateboarding+mid+top+shoes"
+	},
+	{
+		"id": "41",
+		"name": "Camiseta Skate Sunset III",
+		"price": 29.99,
+		"quantity": 10,
+		"installments": "3x de R$ 9.99",
+		"image": "https://source.unsplash.com/random/400x340?skateboarding+clothing"
+	},
+	{
+		"id": "42",
+		"name": "Calça Jeans Skate Blue III",
+		"price": 39.99,
+		"quantity": 8,
+		"installments": "3x de R$ 13.33",
+		"image": "https://source.unsplash.com/random/400x341?skateboarding+jeans"
+	},
+	{
+		"id": "43",
+		"name": "Moletom Skateboarder III",
+		"price": 49.99,
+		"quantity": 12,
+		"installments": "3x de R$ 16.66",
+		"image": "https://source.unsplash.com/random/400x342?skateboarding+sweatshirt"
+	},
+	{
+		"id": "44",
+		"name": "Boné Skate Classic III",
+		"price": 19.99,
+		"quantity": 20,
+		"installments": "3x de R$ 6.66",
+		"image": "https://source.unsplash.com/random/400x343?skateboarding+hat"
+	},
+	{
+		"id": "45",
+		"name": "Meia Skate Stripes III",
+		"price": 9.99,
+		"quantity": 15,
+		"installments": "3x de R$ 3.33",
+		"image": "https://source.unsplash.com/random/400x344?skateboarding+socks"
+	},
+	{
+		"id": "46",
+		"name": "Jaqueta Skate Urban III",
+		"price": 69.99,
+		"quantity": 10,
+		"installments": "3x de R$ 23.33",
+		"image": "https://source.unsplash.com/random/400x345?skateboarding+jacket"
+	},
+	{
+		"id": "47",
+		"name": "Camisa Polo Skate Vintage III",
+		"price": 34.99,
+		"quantity": 10,
+		"installments": "3x de R$ 11.66",
+		"image": "https://source.unsplash.com/random/400x346?skateboarding+polo"
+	},
+	{
+		"id": "48",
+		"name": "Vestido Skate Floral III",
+		"price": 44.99,
+		"quantity": 10,
+		"installments": "3x de R$ 14.99",
+		"image": "https://source.unsplash.com/random/400x347?skateboarding+dress"
+	},
+	{
+		"id": "49",
+		"name": "Tênis Skate High Top III",
+		"price": 79.99,
+		"quantity": 5,
+		"installments": "3x de R$ 26.66",
+		"image": "https://source.unsplash.com/random/400x348?skateboarding+shoes"
+	},
+	{
+		"id": "50",
+		"name": "Moletom Skate Skateboarding III",
+		"price": 54.99,
+		"quantity": 15,
+		"installments": "3x de R$ 18.33",
+		"image": "https://source.unsplash.com/random/400x349?skateboarding+sweater"
+	}
+]
